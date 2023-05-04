@@ -1,0 +1,10 @@
+1/2+2*(3+2) = 10.5
+1+x+4 = Error. Incorrect input format.
+2+15/3+4*2 = 15
+5-10 = -5
+5/0 = Error. Cannot divide by zero.
+-5-5 = -10
+-5*2-3 = -13
+-5*2+15/2 = -2.5
+(2+2) = 4
++2+2 = Error. Incorrect input format.
